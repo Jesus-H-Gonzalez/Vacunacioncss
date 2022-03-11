@@ -1,5 +1,6 @@
 # Vacunacion Css
 Kata CSS
+
 "Descripción de plan de mercadotecnia"
 Lo primero que debemos considerar es a que grupo de edades va a ser dirigido el mensaje de vacunación;
 por ejemplo, si se van a vacunar a adultos mayores, una página de Internet no serviría de mucho, pues al menos
@@ -15,3 +16,5 @@ digamos que un grupo de edad de 15-40 años de esta manera
 abarcamos las redes sociales más utilizadas (sin tomar en cuenta las aplicaciones de mensajería instantánea) de esta manera 
 la gente con mayor edad dentro del grupo de 15-40 años recibiría el mensaje en las plataformas más antiguas como Facebook, Twitter o Youtube
 mientras que los más jóvenes lo recibirían en las más nuevas como TikTok, Discord o Instagram.
+
+Y así es como se tendría una campaña 360 en este caso en particular.
