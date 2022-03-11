@@ -1,0 +1,269 @@
+*{
+    margin: 20px;
+    padding: 0px;
+}
+body {
+    background-color: white;
+}
+p {
+    color: hsl(218, 15%, 50%);
+}
+.top {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0;
+    padding: 0;
+    gap: 1rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 2%;
+    margin-bottom: -50px;
+}
+.topimgs {
+    margin-bottom: -10px;
+    margin-right: -3px;
+}
+.fightvirus {
+    display: flex;
+    gap: 1rem;
+}
+.tablaboton {
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    margin-top: -10px;
+    background-color: hsla(210, 100%, 95%, 70%)
+}
+.doctor {
+    float: right;
+    margin-top: -350px;
+}
+.schedule{
+    text-align: left;
+    width: 600px;
+    height: 150px;
+    margin-top: 80px;
+    margin-bottom: -30px;
+    margin-right: -50px;
+}
+table {
+    width: 500px;
+    height: 50px;
+    margin-top: -8px;
+}
+.schedulebuton {
+    float: right;
+    margin-left: 0px;
+    margin-top: -90px;
+    margin-right: 10px;
+}
+.imgsch {
+    margin-bottom: -5px;
+    margin-right: -3px;
+}
+.imgschmini {
+    text-align: right
+}
+.topbottons {
+    align-self: flex-start;
+    align-items: flex-start;
+    margin-bottom: 100px;
+}
+.title1 {
+    color: hsl(218, 57%, 28%);
+    font-size: xx-large;
+    font-weight: 600;
+    margin-top: -45px;
+}
+.titles {
+    color: hsl(218, 57%, 28%);
+    font-size: x-large;
+}
+.vaccination {
+    color: hsl(228, 66%, 53%);
+    font-size: large;
+    text-align: left;
+}
+.footer {
+    color: hsl(218, 15%, 50%);
+    font-size: x-small;
+}
+.footertitle {
+    color: hsl(218, 52%, 31%);
+    font-size: small;
+    font-weight: 700;
+}
+.buttons {
+    width: 100px;
+    height: 50px;
+    background: hsl(228, 67%, 46%);
+    color: hsl(223, 100%, 97%);
+    padding: 2%;
+    border-radius: 7px;
+    border-color: none;
+    border: none;
+    transition-duration: .3s;
+    font-weight: 700;
+}
+.buttons:hover{
+    background-color: hsl(223, 100%, 97%);
+    color: hsl(228, 67%, 46%);
+}
+.footerdiv {
+    padding: 40px;
+    background-color: hsl(223, 100%, 97%);
+    width: 1200px;
+    height: 280px;
+    margin-left: -60px;
+    margin-bottom: -90px;
+}
+.legend {
+    display: flex;
+    border-left: -1000px;
+    float: inline-end;
+    margin-top: 150px;
+    font-size: x-small;
+}
+.right {
+    display: flex;
+    align-items: flex-end;
+    float: right;
+    margin-top: -150px;
+}
+.imagecontainer {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 180px;
+    border-color: blue 5px;
+}
+.whyvaccinecont {
+    display: flex;
+    margin-bottom: 100px;
+}
+.whyvaccine {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    transition-duration: 1s;
+}
+.whyvaccine:hover {
+    padding: 5px;
+}
+.nurse {
+    float: right;
+    margin-top: -50px;
+}
+.fontsizeh3 {
+    font-size: small;
+    font-weight: 700;
+}
+.fontsizep {
+    font-size: smaller;
+    color: hsl(218, 15%, 50%);
+}
+.fourdiv {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: -1000px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+}
+.callchat1 {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20%;
+}
+.hfd {
+    display: flex;
+    width: 150px;
+    height: 150px;
+}
+.cfd {
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-left: -10px;
+}
+.ifhd {
+    float: left;
+    margin-left: -20px;
+    width: 50px;
+    height: 50px;
+}
+.callchat2 {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-color: black;
+    border-radius: 20%;
+}
+.callchat3 {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-color: black;
+    border-radius: 20%;
+}
+.callchat4 {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-color: black;
+    border-radius: 20%;
+}
+.buttondivs {
+    width: 170px;
+    height: 50px;
+    background: hsl(223, 100%, 97%);
+    color: hsl(228, 67%, 46%);
+    font-weight: 700;
+    padding: 2%;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    transition-duration: .3s;
+    margin-top: -100px;
+}
+.buttondivs:hover {
+    background-color: hsl(228, 67%, 46%);
+    color: hsl(223, 100%, 97%);
+}
+.nav {
+    float: right;
+    margin-top: -600px;
+    margin-right: -10px;
+}
+.lists {
+    transition-duration: 1s;
+}
+.lists:hover {
+    padding: 5px;
+}
+
+.em {
+    margin-top: 200px;
+}
+ul {
+    list-style: none;
+    transition-duration: 1s;
+}
+a {
+    text-decoration: none;
+}
+.mini {
+    margin-left: -25px;
+    margin-bottom: -20px;
+    transition-duration: 1s;
+}
+.mini:hover {
+    padding: 5px;
+}
+.title {
+    color: hsl(218, 57%, 28%);
+}
