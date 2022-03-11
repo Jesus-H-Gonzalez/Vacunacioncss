@@ -2,6 +2,7 @@
 Kata CSS
 
 "Descripción de plan de mercadotecnia"
+
 Lo primero que debemos considerar es a que grupo de edades va a ser dirigido el mensaje de vacunación;
 por ejemplo, si se van a vacunar a adultos mayores, una página de Internet no serviría de mucho, pues al menos
 en México y Latinoamérica ese grupo de personas no acostumbran a navegar mucho por internet, en este caso usar
